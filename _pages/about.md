@@ -10,7 +10,7 @@ redirect_from:
 
 Lingyan Xue is a PHD candidate of information security from [School of Computer Science](https://cs.njupt.edu.cn/), [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/). My interests include blockchain privacy protection and identity authentication.
 
-I am very fortunate to be advised by [Prof. Haiping Huang](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A932DCFE050007F01006EFE) of Jiangsu Provincial Key Laboratory for High-tech Research of Wireless Sensor Networks from [School of Computer Science](https://cs.njupt.edu.cn/), [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/).
+I am very fortunate to be advised by [Prof. Haiping Huang](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A932DCFE050007F01006EFE) of Jiangsu Provincial Key Laboratory for High-tech Research of Wireless Sensor Networks from School of Computer Science, Nanjing University of Posts and Telecommunications.
 
 I host the Postgraduate Research & Practice Innovation Program of Jiangsu Province (Grant Number: KYCX21_0790).
 
